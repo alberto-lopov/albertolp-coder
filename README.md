@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @albertolp-coder
+- 👋 Hi, I’m @albertolp-lopov
 - 🌱 I’m currently studying software engineering in UGR
 - 💞️ I’m looking to make this profile my portfolio, and professional account
 
